@@ -128,6 +128,27 @@ color: rgb(134, 35, 35);
 
 }
 /* resume style*/
-.resume{
+.resume-content{
+    display: flex;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume .title{
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(216, 100, 100);
+    margin-bottom: 10px ;
 
+}
+.resume .sub-title{
+    color: #000;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+    
+}
+.resume .description{
+    color: #000;
 }
